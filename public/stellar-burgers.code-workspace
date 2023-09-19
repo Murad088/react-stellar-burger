@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "stellar-burgers",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "../../../Downloads/stellar-burgers/public"
+		}
+	],
+	"settings": {}
+}
